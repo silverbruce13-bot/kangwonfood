@@ -1,0 +1,7 @@
+{
+  "name": "Kangwon Food Manager",
+  "description": "Financial management app for Kangwon Food restaurant tracking expenses, receipts, and payment source balances.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
